@@ -22,6 +22,7 @@ def nova():
     ███   ███ ███    ███ ███    ███   ███    ███ 
     ███   ███ ███    ███ ███    ███   ███    ███ 
      ▀█   █▀   ▀██████▀   ▀██████▀    ███    █▀  
+                   memoryhackers.org
         """)
 def logo():
     callmebitch.system("clear")
@@ -34,7 +35,7 @@ def logo():
       ███    ██▄   ███    ███          ███   ███    ███   
       ███    ███   ███    ███    ▄█    ███   ███    ███   
     ▄█████████▀    ███    █▀   ▄████████▀    ███    █▀    
-                                                                                                       
+                      memoryhackers.org                                                                                
               N        O         V          A
               ~*---*-*-~-________-~-*-*---*-~    """
      + color.blue + """                                       Hello welcome to the NOVA bruteforce striker.                                        
